@@ -4,6 +4,7 @@
 
 ```
 $ conda create -n chess python=2
+$ source activate chess
 $ conda install beautiful-soup lxml libxml2
 ```
 
